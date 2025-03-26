@@ -43,8 +43,6 @@ Parameters:
 	•	--difficulty: Mining difficulty (number of leading zeros in hash)
 	•	--block-interval: Target average time between blocks (in seconds)
 
-	3.	Observe the output to see how blocks are mined, propagated, and forks resolved.
-
 Learning Outcomes
 	•	Gained practical understanding of how mining and consensus work in a blockchain.
 	•	Learned to simulate distributed systems with asynchronous behavior.
