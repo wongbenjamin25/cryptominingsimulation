@@ -38,17 +38,6 @@ mining-assignment/
 ├── run.py                # Entry point for launching the simulation
 └── README.md             # Project documentation
 
-## How to Run
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/blockchain-mining-assignment.git
-   cd blockchain-mining-assignment
-
-	2.	Run the simulation:
-
-python run.py --nodes 5 --difficulty 4 --block-interval 10
-
 Parameters:
 	•	--nodes: Number of miner nodes to simulate
 	•	--difficulty: Mining difficulty (number of leading zeros in hash)
